@@ -35,7 +35,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://mycv-nthanh.netlify.app/" target="blank">
-    <img width="90" height="90" src="logoDino.png" alt="mycv-nthanh" />
+    <img width="90" height="90" src="logo.png" alt="mycv-nthanh" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021434405634" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
