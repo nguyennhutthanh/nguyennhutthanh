@@ -21,7 +21,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Studio-282C34?logo=visual-studio&logoColor=C71585" alt="Visual Studio" title="Visual Studio" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=C-Sharp&logoColor=C71585" alt="C Sharp" title="C#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Studio-282C34?logo=visual-studio&logoColor=FF69B4" alt="Visual Studio" title="Visual Studio" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
