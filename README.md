@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
+  <img src="trungquandev.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -35,7 +35,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://mycv-nthanh.netlify.app/" target="blank">
-    <img width="90" height="90" src="images/logoDino.png" alt="mycv-nthanh" />
+    <img width="90" height="90" src="logoDino.png" alt="mycv-nthanh" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100021434405634" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
